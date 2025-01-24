@@ -1,1 +1,1 @@
-# Manage-employee
+Simple terminal app for managing employee data.
